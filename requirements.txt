@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+joblib
+tensorflow
+nltk 
+gensim
+
